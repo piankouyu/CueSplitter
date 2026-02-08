@@ -1,0 +1,2 @@
+pylibcue
+mutagen
