@@ -27,9 +27,9 @@ CueSplitter 是一个基于 CUE 文件分割音频文件的工具，提供图形
 
 - FFmpeg (must be installed. You can either:
 
-      Install FFmpeg system-wide and add it to your system PATH, OR
+  Install FFmpeg system-wide and add it to your system PATH, OR
       
-      Place the FFmpeg executable (`ffmpeg.exe` on Windows, `ffmpeg` on Linux/Mac) in the same directory as the script)
+  Place the FFmpeg executable (`ffmpeg.exe` on Windows, `ffmpeg` on Linux/Mac) in the same directory as the script)
 
 ### Install Python Dependencies
 
