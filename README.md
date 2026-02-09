@@ -39,12 +39,12 @@ pip install requirements.txt -r
 
 ## Usage
 
-### Graphical Interface Version (`gui.py`)
+### Graphical Interface Version (`CueSplitter.py`)
 
 Launch GUI:
 
 ```bash
-python gui.py
+python CueSplitter.py
 ```
 <div align=center><img src="img/2.png" width=80%></div>
 
