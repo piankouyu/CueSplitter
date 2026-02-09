@@ -41,7 +41,14 @@ pip install requirements.txt -r
 
 ### Graphical Interface Version (`CueSplitter.py`)
 
-Launch GUI:
+Place the cue file and audio file in the same dir with identical prefix
+
+```
+├── dir
+│   ├── ABCDEF.cue
+│   ├── ABCDEF.wav
+```
+Then launch GUI:
 
 ```bash
 python CueSplitter.py
@@ -50,7 +57,7 @@ python CueSplitter.py
 
 The GUI provides the following functions:
 
-1. **File Selection**: Browse buttons for selecting CUE files, audio files, and output directories
+1. **File Selection**: Browse buttons for selecting CUE files, audio files (no need if with identical prefix), and output directories
 2. **Format Selection**: Dropdown menu for output format (WAV, MP3, FLAC)
 3. **Encoding Settings**: Specify character encoding for CUE files
 4. **Parallel Jobs**: Set number of parallel processing tasks
