@@ -95,8 +95,8 @@ When adjusting the starting track number (e.g., starting disc 2 tracks from 1 in
 
 This project is open-source under the GPL-3.0 license.
 
-The repo is adapted from [Cycloctane/cuesplit](https://github.com/Cyloctane/cuesplit/tree/main) and also follows the GPL license.
+The repo is adapted from [Cycloctane/cuesplit](https://github.com/Cycloctane/cuesplit/tree/main) and also follows the GPL license.
 
 ## Acknowledgements
 
-Thanks to the original project [Cycloctane/cuesplit](https://github.com/Cyloctane/cuesplit) for providing the core functionality foundation.
+Thanks to the original project [Cycloctane/cuesplit](https://github.com/Cycloctane/cuesplit) for providing the core functionality foundation.
